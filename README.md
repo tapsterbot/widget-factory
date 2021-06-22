@@ -1,2 +1,2 @@
-# widget-factory
+# Widget Factory
 A Goldbergian art project.
