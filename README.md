@@ -1,2 +1,2 @@
 # Widget Factory
-A Goldbergian art project.
+A Goldbergian art project
